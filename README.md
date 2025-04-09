@@ -10,6 +10,8 @@ url info
 raid
 dm all
 
+install : pip install requests discord.py customtkinter pillow
+
 educationalpurposeonly
 
 discord:https://discord.gg/5WKemCHC
